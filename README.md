@@ -15,3 +15,4 @@ The fundamental components of GANs, build a basic GAN using PyTorch, use convolu
 
 1. [Week 1: Your first GANs](Course%201/Week%201/Week1%20Your%20First%20GAN.ipynb)
 2. [Week 2: Deep Convolutional GANs](Course%201/Week%202/Week2%20Deep%20Convolutional%20GANs.ipynb)
+3. [Week 3: WGAN](Course%201/Week%203/Week%203%20WGAN.ipynb)
