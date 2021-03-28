@@ -13,6 +13,26 @@ The DeepLearning.AI Generative Adversarial Networks (GANs) Specialization provid
 
 The fundamental components of GANs, build a basic GAN using PyTorch, use convolutional layers to build advanced DCGANs that processes images, apply W-Loss function to solve the vanishing gradient problem, and learn how to effectively control your GANs and build conditional GANs.
 
-1. [Week 1: Your first GANs](Course%201/Week%201/Week1%20Your%20First%20GAN.ipynb)
-2. [Week 2: Deep Convolutional GANs](Course%201/Week%202/Week2%20Deep%20Convolutional%20GANs.ipynb)
-3. [Week 3: WGAN](Course%201/Week%203/Week%203%20WGAN.ipynb)
+**Week 1:** [Your first GANs](Course%201/Week%201/Week1%20Your%20First%20GAN.ipynb)  
+**Week 2:** [Deep Convolutional GANs](Course%201/Week%202/Week2%20Deep%20Convolutional%20GANs.ipynb)  
+**Week 3:** [WGAN](Course%201/Week%203/Week%203%20WGAN.ipynb)  
+**Week 4-1:** [Build a Conditional GAN](Course%201/Week%204/Week%204_1%20Build%20a%20Conditional%20GAN.ipynb)  
+**Week 4-2:** [Controllable Generation](Course%201/Week%204/Week%204_2%20Controllable%20Generation.ipynb)  
+
+## Course 2: Build Better Generative Adversarial Networks (GANs)
+
+The challenges of evaluating GANs, compare different generative models, use the Fréchet Inception Distance (FID) method to evaluate the fidelity and diversity of GANs, identify sources of bias and the ways to detect it in GANs, and learn and implement the techniques associated with the state-of-the-art StyleGAN.
+
+**Week 1:** [Frechet Inception Distance](Course%202/Week%201/Week1%20Frechet%20Inception%20Distance.ipynb)  
+**Week 2:** []  
+**Week 3:** []  
+**Week 4:** []  
+
+## Course 3: Apply Generative Adversarial Networks (GANs)
+
+Use GANs for data augmentation and privacy preservation, survey more applications of GANs, and build Pix2Pix and CycleGAN for image translation.
+
+**Week 1:** []  
+**Week 2:** []  
+**Week 3:** []  
+**Week 4:** []  
