@@ -33,7 +33,8 @@ The challenges of evaluating GANs, compare different generative models, use the 
 
 Use GANs for data augmentation and privacy preservation, survey more applications of GANs, and build Pix2Pix and CycleGAN for image translation.
 
-**Week 1:** []  
-**Week 2:** []  
-**Week 3:** []  
-**Week 4:** []  
+**Week 1:** [Data Augmentation](Course%203/Week%201/Week%201%20Data%20Augmentation.ipynb)  
+**Week 2:** 
+
+1. [U-Net](Course%203/Week%202/Week%203A%20U-Net.ipynb)  
+2. [Pix2Pix](Course%203/Week%202/Week%203B%20Pix2Pix.ipynb)
